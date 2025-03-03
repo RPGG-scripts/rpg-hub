@@ -114,3 +114,4 @@ local Button = ScriptTab:CreateButton({
    Callback = function()
       loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/mm2-piano-reborn/refs/heads/main/scr"))()
    end,
+})
